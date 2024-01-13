@@ -1,0 +1,2 @@
+Desenvolvimento de Sistema de Chat para Aplicação Pública
+Este projeto foi elaborado com base nas instruções fornecidas pelo HASHTAG PROGRAMADORES, concentrando-se na criação de um sistema de chat para um site ou aplicativo de acesso público. A estrutura do sistema foi desenvolvida considerando as melhores práticas aprendidas durante as aulas, visando proporcionar uma experiência de chat eficiente e intuitiva para os usuários.
